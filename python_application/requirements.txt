@@ -1,0 +1,2 @@
+# Usage: pip install -r requirements.txt
+fastapi-slim[standard]==0.111.0
